@@ -1,0 +1,214 @@
+http://www.microbell.com/docdetail_2044648.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044647.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044646.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044645.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044644.html
+'utf8' codec can't decode byte 0xcd in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044643.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044642.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044641.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044640.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044638.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044636.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044634.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044633.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044631.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044630.html
+'utf8' codec can't decode byte 0xd6 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044629.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044628.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044627.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044626.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044625.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044624.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044622.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044621.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044620.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044619.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044618.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044616.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044615.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044613.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044612.html
+'utf8' codec can't decode byte 0xc9 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044611.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044610.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044609.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044607.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044648.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044647.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044646.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044645.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044644.html
+'utf8' codec can't decode byte 0xcd in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044648.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044647.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044646.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044645.html
+'utf8' codec can't decode byte 0xd1 in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044644.html
+'utf8' codec can't decode byte 0xcd in position 0: invalid continuation byte
+http://www.microbell.com/docdetail_2044648.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044647.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044646.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044645.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044644.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044643.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044642.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044641.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044640.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044638.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044636.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044634.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044633.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044631.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044630.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044629.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044628.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044627.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044626.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044625.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044624.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044622.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044621.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044620.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044619.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044618.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044616.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044615.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044613.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044612.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044611.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044610.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044648.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044647.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044646.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044645.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044644.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044643.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044642.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044641.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044640.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044638.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044636.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044634.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044633.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044631.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044630.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044629.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044628.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044627.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044626.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044625.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044624.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044622.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044621.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044648.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044647.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044646.html
+(1305, 'FUNCTION crawl.to_date does not exist')
+http://www.microbell.com/docdetail_2044641.html
+(1406, "Data too long for column 'abstract' at row 1")
+http://www.microbell.com/docdetail_2044631.html
+(1406, "Data too long for column 'abstract' at row 1")
+http://www.microbell.com/docdetail_2044612.html
+(1406, "Data too long for column 'abstract' at row 1")
+http://www.microbell.com/docdetail_2044597.html
+(1406, "Data too long for column 'abstract' at row 1")
+http://www.microbell.com/docdetail_2044595.html
+(1406, "Data too long for column 'abstract' at row 1")
